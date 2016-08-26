@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162548086282",
+    "firebase_url": "https://mysuperfirebase.firebaseio.com",
+    "project_id": "mysuperfirebase",
+    "storage_bucket": "mysuperfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162548086282:android:0d13305c32a2784e",
+        "android_client_info": {
+          "package_name": "aca.com.mysuperfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162548086282-pj5g6cb7g2pd1pumfmslmkr0q4hd8v2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALsXXso8Uvd72Bm19aLRmSeI3vFhTnjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
